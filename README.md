@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinakar</h1>
-<h3 align="center">Full-Stack Developer 🌟</h3>
+<h3 align="center">Java Full-Stack Developer 🌟</h3>
 
 <br>
 <img align="right" src="https://github.com/your-username/your-repo/blob/main/your-gif.gif" width="400" /> <!-- Replace with your own gif -->
@@ -8,7 +8,7 @@
 
 - 🌱 Passionate about building impactful and scalable applications.
 - 🖥️ Expertise in **React**, **Spring Boot**, **PostgreSQL**, and **Java**.
-- 📫 Reach me at **dinakar@example.com**
+- 📫 Reach me at **karenguladinakar@google.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
